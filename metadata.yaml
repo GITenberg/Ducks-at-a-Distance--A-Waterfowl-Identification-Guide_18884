@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8318'
     url: http://www.gutenberg.org/2009/agents/8318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18884#Ducks-at-a-Distance--A-Waterfowl-Identification-Guide
 gutenberg_bookshelf:
 - Biology
 - Animals-Wild-Birds
