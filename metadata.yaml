@@ -1,0 +1,48 @@
+_repo: Ducks-at-a-Distance--A-Waterfowl-Identification-Guide_18884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hines, Bob
+    alias: Hines, Robert W.
+    birthdate: 1912
+    deathdate: 1994
+    gutenberg_agent_id: '8318'
+    url: http://www.gutenberg.org/2009/agents/8318
+description: ''
+gutenberg_bookshelf:
+- Biology
+- Animals-Wild-Birds
+gutenberg_issued: '2006-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18884'
+language: en
+publication_note: "Department of the Interior\r\nU.S. Fish and Wildlife Service\r\n\
+  Washington, D.C. 1978"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ducks -- Canada -- Identification'
+- !lcsh 'Waterfowl'
+- !lcsh 'Birds'
+- !lcsh 'Anatidae'
+- !lcc 'QL'
+- !lcsh 'Ducks'
+- !lcsh 'Ducks -- United States -- Identification'
+tableOfContents: "Identification is Important\r\nWhat to Look For\r\nEclipse Plumage\r\
+  \nSpecies Identification:\r\n\r\n    Puddle Ducks\r\n    Mallard\r\n    Pintail\r\
+  \n    Gadwall\r\n    Wigeon\r\n    Shoveler\r\n    Blue-Winged Teal\r\n    Cinnamon\
+  \ Teal\r\n    Green-Winged Teal\r\n    Wood Duck\r\n    Black Duck\r\n    Diving\
+  \ Ducks\r\n    Canvasback\r\n    Redheads\r\n    Ringneck\r\n    Scaup\r\n    Goldeneye\r\
+  \n    Bufflehead\r\n    Ruddy\r\n    Red-Breasted Merganser\r\n    Common Merganser\r\
+  \n    Hooded Merganser\r\n    Whistling Ducks\r\n    White-Winged Scoter\r\n   \
+  \ Surf Scoter\r\n    Black Scoter\r\n    Common Eider\r\n    Oldsquaw\r\n    Harlequin\r\
+  \n    Swans\r\n    Canada Geese\r\n    Brant\r\n    Snow\r\n    White-Fronted Geese\r\
+  \n\r\nAt a Glance Guide\r\nComparative Sizes Of Waterfowl\r\nWetlands Attract Wildlife\r\
+  \nAdministrative Waterfowl Flyways"
+title: 'Ducks at a Distance: A Waterfowl Identification Guide'
+url: http://www.gutenberg.org/ebooks/18884
